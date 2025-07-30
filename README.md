@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jun-Wei Chen (陳駿瑋)
 
-🎓 **Graduate Student** in **Information and Communication Security**
+🎓 **Graduate Student** in **Information and Communication Security**  
 🎯 **Bachelor’s Degree:** Artificial Intelligence Technology & Applications  
 💡 **Minor:** FinTech | Passionate about **Cybersecurity & Post-Quantum Cryptography**
 
