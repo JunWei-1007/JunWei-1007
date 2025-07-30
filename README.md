@@ -21,6 +21,9 @@
 - [📈 Stock Buy Point Prediction (LSTM)](https://github.com/JunWei-1007/Stock_1.0)  
   *Used LSTM with sliding window to predict stock buy points.*
 
+- [💹 Cryptocurrency API Trading Bot](https://github.com/JunWei-1007/Cryptocurrency_API)  
+  *Developed an automated trading bot using Binance API for cryptocurrency trading.*
+
 ---
 
 ## 🌱 Currently Learning
