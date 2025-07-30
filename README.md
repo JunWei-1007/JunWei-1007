@@ -18,7 +18,7 @@
 
 ## 🚀 Projects
 
-- [📈 Stock Buy Point Prediction (LSTM)]
+- [📈 Stock Buy Point Prediction (LSTM)](https://github.com/JunWei-1007/Stock_1.0)  
   *Used LSTM with sliding window to predict stock buy points.*
 
 ---
