@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jun-Wei Chen (陳駿瑋)
+# Hi there, I'm Jun-Wei Chen (陳駿瑋)
 
 🎓 **Graduate Student** in **Information and Communication Security**  
 🎯 **Bachelor’s Degree:** Artificial Intelligence Technology & Applications  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 
 - **Programming:** Python, C, JavaScript  
 - **AI / ML:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - [📈 Stock Buy Point Prediction (LSTM)](https://github.com/JunWei-1007/Stock_1.0)  
   *Used LSTM with sliding window to predict stock buy points.*
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Red Team hacking skills & penetration testing  
 - Post-quantum cryptography in IoV & Blockchain  
